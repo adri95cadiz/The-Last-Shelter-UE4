@@ -30,15 +30,15 @@ Nos enfrentaremos a tres tipos de enemigos:
 A continuación se muestran algunas capturas.
 
   - Menú principal:
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/mainmenu.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/mainmenu.png|alt=mainmenu]]
   - Construcción de una torreta:
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/construccion.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/construccion.png|alt=construccion]]
   - Muestra de la acción en primeras oleadas:  
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/combate.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/combate.png|alt=combate]]
   - Lanzamiento de un ataque nuclear:  
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/especial.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/especial.png|alt=especial]]
   - Muestra de un combate masivo de última oleada:
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/combate2.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/combate2.png|alt=combate2]]
   - Menú de pausa:
-  ![alt tag](https://raw.githubusercontent.com/adri95cadiz/PGV_UGR/master/TheLastShelter/Capturas/pausa.png)
+  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/pausa.png|alt=pausa]]
   
