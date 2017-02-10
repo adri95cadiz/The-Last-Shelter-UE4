@@ -30,7 +30,7 @@ Nos enfrentaremos a tres tipos de enemigos:
 A continuación se muestran algunas capturas.
 
   - Menú principal:
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/mainmenu.png|alt=mainmenu]]
+  ![mainmenu](TheLastShelter/Capturas/mainmenu.png)
   - Construcción de una torreta:
   [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/construccion.png|alt=construccion]]
   - Muestra de la acción en primeras oleadas:  
