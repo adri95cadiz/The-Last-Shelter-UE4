@@ -32,13 +32,13 @@ A continuación se muestran algunas capturas.
   - Menú principal:
   ![mainmenu](TheLastShelter/Capturas/mainmenu.png)
   - Construcción de una torreta:
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/construccion.png|alt=construccion]]
+  ![construccion](TheLastShelter/Capturas/construccion.png)
   - Muestra de la acción en primeras oleadas:  
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/combate.png|alt=combate]]
+  ![combate](TheLastShelter/Capturas/combate.png)
   - Lanzamiento de un ataque nuclear:  
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/especial.png|alt=especial]]
+  ![especial](TheLastShelter/Capturas/especial.png)
   - Muestra de un combate masivo de última oleada:
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/combate2.png|alt=combate2]]
+  ![combate2](TheLastShelter/Capturas/combate2.png)
   - Menú de pausa:
-  [[https://github.com/adri95cadiz/PGV_UGR/blob/master/TheLastShelter/Capturas/pausa.png|alt=pausa]]
+  ![pausa](TheLastShelter/Capturas/pausa.png)
   
