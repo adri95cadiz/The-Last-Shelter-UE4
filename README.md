@@ -1,6 +1,3 @@
-# PGV_UGR
-Prácticas de la asignatura Programación Gráfica de Videojuegos de la Universidad de Granada
-
 Lo assets que faltan están en: https://mega.nz/#!RElFzDRJ!WEgC2y4A2Cr0XbVhhUii5_EuXIF-IVS4DfjlPPBb7CY
 
 **The Last Shelter**
